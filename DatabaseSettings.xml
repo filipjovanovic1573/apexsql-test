@@ -3,5 +3,5 @@
   <ServerVersion>Sql2014</ServerVersion>
   <ServerName>DESKTOP-P4BRI3L</ServerName>
   <DatabaseName>AdventureWorks2014</DatabaseName>
-  <DatabaseInformation Version="2" />
+  <DatabaseInformation Version="3" />
 </DatabaseSettings>
